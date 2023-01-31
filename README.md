@@ -1,1 +1,1 @@
-Projeto simples e rápido para consolidar conceitos de localStorage e sessionStorage
+Simple project developed for only consolidate local and session storage concepts.
